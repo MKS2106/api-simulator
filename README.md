@@ -46,4 +46,4 @@ Returns a sales summary. Again, has an 80% success rate.
 3. Reload the page to see simulated outputs — including possible failures.
 4. Check the Console for outputs and errors.
 
-# Comments: README file is influenced by frontend mentor challenge projects README. 
+- Comments: README file is influenced by frontend mentor challenge projects README. 
